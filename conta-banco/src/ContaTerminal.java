@@ -6,7 +6,7 @@ public class ContaTerminal {
         // Scanner captura a entrada de dados do usuário
         Scanner scanner = new Scanner(System.in);
         
-        // Declara as variáveis para armazenar os dados da conta
+        // Declarar as variáveis para armazenar os dados da conta
         int numero;
         String agencia;
         String nomeCliente;
@@ -45,3 +45,5 @@ public class ContaTerminal {
         System.out.println(mensagem);
     }
 }
+
+// PROJETO FINAL 
