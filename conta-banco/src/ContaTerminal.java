@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class ContaTerminal {
 
     public static void main(String[] args) {
-        // Scanner para capturar a entrada de dados do usuário
+        // Scanner captura a entrada de dados do usuário
         Scanner scanner = new Scanner(System.in);
         
-        // Declarar as variáveis para armazenar os dados da conta
+        // Declara as variáveis para armazenar os dados da conta
         int numero;
         String agencia;
         String nomeCliente;
